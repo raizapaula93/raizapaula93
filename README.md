@@ -10,7 +10,7 @@ I'm Raiza, programmer 👩‍💻 and student of cool 🎲 tools that provide go
 
 ### Programming Languages 🌐
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="44">](https://www.oracle.com/java/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="56">](https://www.oracle.com/java/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/)
 
  
