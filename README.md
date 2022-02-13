@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hello there, 😺
 
-<!--
-**raizapaula93/raizapaula93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=raizapaula93" alt="raizapaula93" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Raiza, programmer 👩‍💻 and student of cool 🎲 tools that provide good insights!
+
+
+  
+
+### Programming Languages 🌐
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="38">](https://www.oracle.com/java/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/)
+
+ 
+### Tools 🛠️
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="38">](https://www.mysql.com/) 
+ [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="38">](https://git-scm.com/) 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="34">](https://code.visualstudio.com/)
+ [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltfc7kHXJWyA9xfFNj5mSSk4ReOJ8GncRifmvIDtrA-FlxkdAQTA6MA8vN8aPOc4bl1Q&usqp=CAU" alt="springboot" width="34">](https://spring.io/projects/spring-boot)
+ [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="34">](https://angular.io/)
+ [<img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" alt="powerbi" width="40">](https://powerbi.microsoft.com/en-us/)
+
+
+### Github Stats
+
+[![Raiza A. De Paula GitHub Stats](https://github-readme-stats.vercel.app/api?username=raizapaula93&show_icons=true&count_private=true)](https://github.com/raizapaula93)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raiza-de-paula/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@raizapaula93-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:raizapaula93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raizapaula93@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐️ From [@anandmainali](https://github.com/anandmainali) 
+    
+</div>
