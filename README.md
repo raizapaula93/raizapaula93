@@ -37,6 +37,6 @@ I'm Raiza, programmer 👩‍💻 and student of cool 🎲 tools that provide go
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali) 
+⭐️ Created from [@anandmainali](https://github.com/anandmainali) 
     
 </div>
