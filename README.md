@@ -25,7 +25,10 @@ I'm Raiza, programmer 👩‍💻 and student of cool 🎲 tools that provide go
 
 ### Github Stats
 
-[![Raiza A. De Paula GitHub Stats](https://github-readme-stats.vercel.app/api?username=raizapaula93&show_icons=true&count_private=true)](https://github.com/raizapaula93)
+ <a href="https://github.com/raizapaula93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raizapaula93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raizapaula93&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -36,6 +39,6 @@ I'm Raiza, programmer 👩‍💻 and student of cool 🎲 tools that provide go
 </p>
 
 
-⭐️ Created from [@anandmainali](https://github.com/anandmainali) 
+
     
 </div>
